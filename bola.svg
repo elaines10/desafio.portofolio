@@ -1,0 +1,15 @@
+<svg
+
+    version="1.1"
+
+    base-profile="full"
+
+    width="200"
+
+    height="200"
+
+    xmlns="http://www.w3.org/2000/svg">
+
+    <circle cx="50" cy="50" r="40" stroke="#837E9F" stroke-width="13" fill="#E7DE79" />
+
+</svg>
